@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on Zup Innovation as a Developer Specialist
+- 🔭 I’m currently working on CPFL Energia as a Developer Sennior
 - 💻 I'm Bsc in Information Systems
 - 🌱 I’m currently learning about flutter
 - 😄 Pronouns: He/Him
